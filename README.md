@@ -1,5 +1,5 @@
 ## Olá, bem vindos(as) ao meu perfil!!
-- 👩🏻‍💻 Futura ciênctista de dados.
+- 👩🏻‍💻 Futura ciêntista de dados.
 - 🎲 Atualmente focando na área de dados.
 - ❤ Apaixonada por tecnologia.
 - 🔧 Ferramentas de foco:
