@@ -1,6 +1,7 @@
 ## Olá, bem vindos(as) ao meu perfil!!
 - 👩🏻‍💻 Futura ciênctista de dados.
 - 🎲 Atualmente focando na área de dados.
+- ❤ Apaixonada por tecnologia.
 - 🔧 Ferramentas de foco:
 <div display="inline"  >
   <img width = 60 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
@@ -16,6 +17,7 @@
 <br>
 
 ### Você pode me encontrar também em:
+- 📧 Juliarg0209@outlook.com
 <a href = "https://www.linkedin.com/in/júlia-ribeiro-gonçalves-dev02/">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
