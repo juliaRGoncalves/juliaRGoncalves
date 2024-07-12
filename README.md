@@ -1,7 +1,7 @@
 ## Olá, bem vindo ao meu perfil!!
-- 👩🏻‍💻🎲 Futura ciênctista de dados.
-- 👩🏻‍💻 Atualmente focando na área de dados.
-- 🔧💻 Ferramentas de foco:
+- 👩🏻‍💻 Futura ciênctista de dados.
+- 🎲 Atualmente focando na área de dados.
+- 🔧 Ferramentas de foco:
 <div display="inline"  >
   <img width = 60 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
   <img width = 50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
