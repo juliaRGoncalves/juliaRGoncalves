@@ -1,5 +1,5 @@
 ## Olá, bem vindos(as) ao meu perfil!!
-- 👩🏻‍💻 Futura análista de dados.
+- 👩🏻‍💻 Análista de dados e Frontender.
 - ❤ Apaixonada por tecnologia.
 - 🔧 Ferramentas de foco:
 <div display="inline"  >
