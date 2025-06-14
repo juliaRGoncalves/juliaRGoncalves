@@ -1,9 +1,10 @@
 ## Olá, bem vindos(as) ao meu perfil!!
-- 👩🏻‍💻 Análista de dados e Frontender.
+- 👩🏻‍💻 Dev. Frontender
 - ❤ Apaixonada por tecnologia.
 - 🔧 Ferramentas de foco:
 <div display="inline"  >
-  <img width = 60 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
+  <img width = 60 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img
 </div>   
 <br>
 <div display="inline">
@@ -15,7 +16,7 @@
 <br>
 
 ### Você pode me encontrar também em:
-- 📧 goncalves.juliaribeiro@outlook.com
+<img src = "https://icons8.com.br/icon/P7UIlhbpWzZm/gmail" />
 <a href = "https://www.linkedin.com/in/júlia-ribeiro-gonçalves-dev02/">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
