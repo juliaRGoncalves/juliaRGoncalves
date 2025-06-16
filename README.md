@@ -16,7 +16,7 @@
 <br>
 
 ### Você pode me encontrar também em:
-<img src = "https://icons8.com.br/icon/P7UIlhbpWzZm/gmail" />
+
 <a href = "https://www.linkedin.com/in/júlia-ribeiro-gonçalves-dev02/">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
