@@ -3,11 +3,8 @@
 - ❤ Apaixonada por tecnologia.
 - 🔧 Ferramentas de foco:
 <div display="inline"  >
-  <img width = 60 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-</div>
-
-<div display = "inline">
-  <img width = 60 height = 60 src = "https://skillicons.dev/icons?i=js,html,css" , src = "https://skillicons.dev"/>
+  <img src= "https://skillicons.dev/icons?i=mysql" , src = "https://skillicons.dev"/>
+  <img src = "https://skillicons.dev/icons?i=js,html,css" , src = "https://skillicons.dev"/>
 </div>
 
 <br>
