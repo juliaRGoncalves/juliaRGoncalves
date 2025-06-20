@@ -4,8 +4,12 @@
 - 🔧 Ferramentas de foco:
 <div display="inline"  >
   <img width = 60 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img src = "https://skillicons.dev/icons?i=js,html,css" src = "https://skillicons.dev"/>
-</div>   
+</div>
+
+<div display = "inline">
+  <img width = 60 height = 60 src = "https://skillicons.dev/icons?i=js,html,css" , src = "https://skillicons.dev"/>
+</div>
+
 <br>
 <div display="inline">
   <img src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -17,9 +21,9 @@
 
 ### Você pode me encontrar também em:
 <a href = "goncalves.ribeiroju02@gmail.com">
-  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src = "https://skillicons.dev/icons?i=linkedin" , src = "https://skillicons.dev"/>
 </a>
 
 <a href = "https://www.linkedin.com/in/júlia-ribeiro-gonçalves-dev02/">
-  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src = "https://skillicons.dev/icons?i=linkedin" , src = "https://skillicons.dev"/>
 </a>
