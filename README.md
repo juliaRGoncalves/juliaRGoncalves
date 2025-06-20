@@ -4,7 +4,7 @@
 - 🔧 Ferramentas de foco:
 <div display="inline"  >
   <img width = 60 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img
+  <img [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)/>
 </div>   
 <br>
 <div display="inline">
