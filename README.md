@@ -16,7 +16,7 @@
 <br>
 
 ### Você pode me encontrar também em:
-<a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+<a href = "goncalves.ribeiroju02@gmail.com">
   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
