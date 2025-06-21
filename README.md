@@ -1,5 +1,5 @@
 ## Olá, bem vindos(as) ao meu perfil!!
-- 👩🏻‍💻 Dev. Frontender
+- 👩🏻‍💻 Dev. Front-end
 - ❤ Apaixonada por tecnologia.
 - 🔧 Ferramentas de foco:
 <div display = "inline">
