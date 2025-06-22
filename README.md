@@ -17,7 +17,7 @@
 <br>
 
 ### Você pode me encontrar também em:
-<a href = "goncalves.ribeiroju02@gmail.com">
+<a href = "mailto:goncalves.ribeiroju02@gmail.com">
   <img src = "https://skillicons.dev/icons?i=gmail" , src = "https://skillicons.dev"/>
 </a>
 
