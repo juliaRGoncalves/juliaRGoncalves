@@ -1,7 +1,8 @@
 ## Olá, bem vindos(as) ao meu perfil!!
 - 👩🏻‍💻 Dev. Front-end
 - ❤ Apaixonada por tecnologia.
-- 🔧 Ferramentas de foco:
+  
+## 🔧 Ferramentas de foco:
 <div display = "inline">
   <img src= "https://skillicons.dev/icons?i=mysql" , src = "https://skillicons.dev"/>
   <img src = "https://skillicons.dev/icons?i=js,html,css" , src = "https://skillicons.dev"/>
@@ -9,7 +10,7 @@
 
 <br>
 <div display = "inline">
-  <img src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
 
