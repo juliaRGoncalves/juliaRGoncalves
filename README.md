@@ -18,8 +18,8 @@
 <br>
 
 ### Você pode me encontrar também em:
-<a href = "mailto:goncalves.ribeiroju02@gmail.com">
-  <img src = "https://skillicons.dev/icons?i=gmail" , src = "https://skillicons.dev"/>
+<a
+  <[img src = "https://skillicons.dev/icons?i=gmail" , src = "https://skillicons.dev"/>] (mailto:goncalves.ribeiroju02@gmail.com)
 </a>
 
 <a href = "https://www.linkedin.com/in/júlia-ribeiro-gonçalves-dev02/">
