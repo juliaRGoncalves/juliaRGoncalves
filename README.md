@@ -1,8 +1,8 @@
 ## Olá, bem vindos(as) ao meu perfil!!
 ### Sobre mim:
-- 👩🏻‍💻 Front-end
 - 🎓 Graduanda em Ciência da Computação.
 - ❤ Apaixonada por tecnologia.
+
 - Olá! Sou a Júlia, uma desenvolvedora em formação com foco em Frontend e Desenvolvimento Web. Venho buscando aprimorar minhas habilidades com boas práticas de desenvolvimento, design responsivo e integração com APIs. Sou movida por desafios e acredito que a tecnologia é uma ferramenta poderosa em criar soluções que impactam a vida das pessoas.
 - Aqui você irá encontrar meus projetos, experiências e a evolução da minha jornada no universo do desenvolvimento web!
 
