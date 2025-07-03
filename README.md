@@ -2,7 +2,7 @@
 - 👩🏻‍💻 Front-end
 - ❤ Apaixonada por tecnologia.
 
-### 📬 Você pode me encontrar também em:
+### ✉️ Você pode me encontrar também em:
 <a href = "https://www.linkedin.com/in/júlia-ribeiro-gonçalves-dev02/">
   <img src = "https://skillicons.dev/icons?i=linkedin" , src = "https://skillicons.dev"/>
 </a>
@@ -29,3 +29,8 @@
   <img src= "https://skillicons.dev/icons?i=git" , src = "https://skillicons.dev"/>
   <img src= "https://skillicons.dev/icons?i=vscode" , src = "https://skillicons.dev"/>
 </div>
+
+#### Estatisca:
+<div display = "inline">
+  <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaRGoncalves&layout=compact">
+  </a>
