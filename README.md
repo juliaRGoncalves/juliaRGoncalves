@@ -1,6 +1,11 @@
 ## Olá, bem vindos(as) ao meu perfil!!
 - 👩🏻‍💻 Front-end
+- 🎓 Graduanda em Ciência da Computação.
 - ❤ Apaixonada por tecnologia.
+
+### Sobre mim:
+Sou a Júlia, uma desenvolvedora em formação com foco em Frontend e Desenvolvimento Web. Venho buscando aprimorar minhas habilidades com boas práticas de desenvolvimento, design responsivo e integração com APIs. Sou movida por desafios e acredito que a tecnologia é uma ferramenta poderosa em criar soluções que impactam a vida das pessoas. 
+Aqui você irá encontrar meus projetos, experiências e a evolução da minha jornada no universo do desenvolvimento web!
 
 ### ✉️ Você pode me encontrar também em:
 <a href = "https://www.linkedin.com/in/júlia-ribeiro-gonçalves-dev02/">
@@ -29,8 +34,3 @@
   <img src= "https://skillicons.dev/icons?i=git" , src = "https://skillicons.dev"/>
   <img src= "https://skillicons.dev/icons?i=vscode" , src = "https://skillicons.dev"/>
 </div>
-
-#### Estatisca:
-<div display = "inline">
-  <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaRGoncalves&layout=compact">
-  </a>
