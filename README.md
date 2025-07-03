@@ -19,8 +19,7 @@
 #### Banco de Dados / Análises de dados:
 <div display = "inline">
   <img src= "https://skillicons.dev/icons?i=mysql" , src = "https://skillicons.dev"/>
-  <img src= "https://skillicons.dev/icons?i=powerbi" , src = "https://skillicons.dev"/>
-  <img src= "https://skillicons.dev/icons?i=excel" , src = "https://skillicons.dev"/>
+  <img src= "https://skillicons.dev/icons?i=sql" , src = "https://skillicons.dev"/>
 </div>
 
 #### Ferramentas auxiliares:
