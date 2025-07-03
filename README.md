@@ -12,20 +12,20 @@
 
 ## 🔧 Tecnologias de foco:
 #### Sistemas Web:
-<div
+<div display = "inline">
   <img src = "https://skillicons.dev/icons?i=js,html,css" , src = "https://skillicons.dev"/>
 </div>
 
 #### Banco de Dados / Análises de dados:
 <div display = "inline">
   <img src= "https://skillicons.dev/icons?i=mysql" , src = "https://skillicons.dev"/>
-  <img src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src= "https://skillicons.dev/icons?i=powerbi" , src = "https://skillicons.dev"/>
+  <img src= "https://skillicons.dev/icons?i=excel" , src = "https://skillicons.dev"/>
 </div>
 
 #### Ferramentas auxiliares:
 <div display = "inline">
-<img src= "https://skillicons.dev/icons?i=github" , src = "https://skillicons.dev"/>
-<img src= "https://skillicons.dev/icons?i=git" , src = "https://skillicons.dev"/>
-<img src= "https://skillicons.dev/icons?i=vscode" , src = "https://skillicons.dev"/>
+  <img src= "https://skillicons.dev/icons?i=github" , src = "https://skillicons.dev"/>
+  <img src= "https://skillicons.dev/icons?i=git" , src = "https://skillicons.dev"/>
+  <img src= "https://skillicons.dev/icons?i=vscode" , src = "https://skillicons.dev"/>
 </div>
